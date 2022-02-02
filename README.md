@@ -53,4 +53,4 @@ npm install
 then node index.js to start the application
 ```
 
-## [Walkthrough Video](link goes here)
+## [Walkthrough Video](https://drive.google.com/file/d/1nQtjVJSHeDmBYpICa117LxMiYaTr-6VU/view?usp=sharing)
